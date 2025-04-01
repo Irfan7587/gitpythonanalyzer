@@ -50,7 +50,7 @@ This version provides an **interactive web-based UI** using **Streamlit**.
 #### **Steps to Run:**
 1. Start the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run gitanalyzer.py
    ```
 2. Enter the **GitHub Repository URL**, specify output filenames, and click **Run Analysis**.
 3. View the results directly in the app:
@@ -81,7 +81,6 @@ This version provides an **interactive web-based UI** using **Streamlit**.
 ## 💡 Author  
 Developed by **Mohammed Irfan Battegeri** - Feel free to contribute or reach out for improvements!
 
-🔗 **GitHub Repo:** [GitHub Link](https://github.com/yourusername/repo-name)
 ```
 
 ---
